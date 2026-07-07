@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0344-reverse-string) |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ujjwalhq/dsa-learning/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
+## Array
+|  |
+| ------- |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/ujjwalhq/dsa-learning/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 <!---LeetCode Topics End-->
