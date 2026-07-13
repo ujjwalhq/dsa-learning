@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ujjwalhq/dsa-learning/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
 |  |
@@ -43,4 +45,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
