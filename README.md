@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ujjwalhq/dsa-learning/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/ujjwalhq/dsa-learning/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
