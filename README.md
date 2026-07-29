@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ujjwalhq/dsa-learning/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
 ## Array
 |  |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwalhq/dsa-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ujjwalhq/dsa-learning/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ujjwalhq/dsa-learning/tree/master/0485-max-consecutive-ones) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -97,10 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
