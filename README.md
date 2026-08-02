@@ -1,5 +1,5 @@
 # dsa-learning
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+This repository contains my Java solutions to LeetCode problems, organized by topic and difficulty to strengthen DSA concepts and interview problem-solving skills.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
