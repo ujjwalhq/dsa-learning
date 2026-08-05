@@ -27,6 +27,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
+| [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ujjwalhq/dsa-learning/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/ujjwalhq/dsa-learning/tree/master/1816-truncate-sentence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -66,6 +67,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1470-shuffle-the-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
+| [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ujjwalhq/dsa-learning/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/ujjwalhq/dsa-learning/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/ujjwalhq/dsa-learning/tree/master/1816-truncate-sentence) |
