@@ -33,6 +33,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ujjwalhq/dsa-learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ujjwalhq/dsa-learning/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/ujjwalhq/dsa-learning/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1920-build-array-from-permutation](https://github.com/ujjwalhq/dsa-learning/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ujjwalhq/dsa-learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ujjwalhq/dsa-learning/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2942-find-words-containing-character](https://github.com/ujjwalhq/dsa-learning/tree/main/2942-find-words-containing-character/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
