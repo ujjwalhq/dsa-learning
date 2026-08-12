@@ -44,6 +44,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -53,6 +54,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0724-find-pivot-index](https://github.com/ujjwalhq/dsa-learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujjwalhq/dsa-learning/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1480-running-sum-of-1d-array) |
@@ -126,4 +129,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 <!---LeetCode Topics End-->
