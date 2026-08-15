@@ -28,6 +28,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
+| [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/ujjwalhq/dsa-learning/tree/master/1678-goal-parser-interpretation) |
 | [1816-truncate-sentence](https://github.com/ujjwalhq/dsa-learning/tree/master/1816-truncate-sentence) |
@@ -46,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sorting
@@ -73,6 +75,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujjwalhq/dsa-learning/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1470-shuffle-the-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1470-shuffle-the-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujjwalhq/dsa-learning/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/ujjwalhq/dsa-learning/tree/master/1480-running-sum-of-1d-array) |
