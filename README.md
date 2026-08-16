@@ -62,6 +62,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0066-plus-one](https://github.com/ujjwalhq/dsa-learning/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwalhq/dsa-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
@@ -97,6 +98,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwalhq/dsa-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
 ## Counting
@@ -148,4 +150,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/ujjwalhq/dsa-learning/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
