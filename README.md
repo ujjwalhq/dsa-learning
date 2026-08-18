@@ -24,6 +24,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/ujjwalhq/dsa-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0520-detect-capital](https://github.com/ujjwalhq/dsa-learning/tree/master/0520-detect-capital) |
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
@@ -92,6 +93,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0412-fizz-buzz](https://github.com/ujjwalhq/dsa-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [1920-build-array-from-permutation](https://github.com/ujjwalhq/dsa-learning/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ujjwalhq/dsa-learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -127,6 +129,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0066-plus-one](https://github.com/ujjwalhq/dsa-learning/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/ujjwalhq/dsa-learning/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/ujjwalhq/dsa-learning/tree/main/0412-fizz-buzz/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
