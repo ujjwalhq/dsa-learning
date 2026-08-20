@@ -11,6 +11,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0189-rotate-array](https://github.com/ujjwalhq/dsa-learning/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/ujjwalhq/dsa-learning/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ujjwalhq/dsa-learning/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
@@ -22,6 +23,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0205-isomorphic-strings](https://github.com/ujjwalhq/dsa-learning/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/ujjwalhq/dsa-learning/tree/master/0392-is-subsequence) |
