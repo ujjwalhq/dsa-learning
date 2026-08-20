@@ -31,6 +31,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0520-detect-capital](https://github.com/ujjwalhq/dsa-learning/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ujjwalhq/dsa-learning/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
+| [0709-to-lower-case](https://github.com/ujjwalhq/dsa-learning/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
