@@ -1,22 +1,27 @@
 class Solution {
     public boolean judgeCircle(String moves) {
-       int x=0;
-      int y=0;
 
-      for(int i=0;i<moves.length();i++){
-        if (moves.charAt(i)=='U') {
-            y++;
+        int x = 0;
+        int y = 0;
+
+        for (int i = 0; i < moves.length(); i++) {
+
+            char ch = moves.charAt(i);
+
+            if (ch == 'U') {
+                y++;
+            } 
+            else if (ch == 'D') {
+                y--;
+            } 
+            else if (ch == 'L') {
+                x--;
+            } 
+            else if (ch == 'R') {
+                x++;
+            }
         }
-        else if(moves.charAt(i)== 'D'){
-            y--;
-        }
-        else if(moves.charAt(i)== 'L'){
-          x++;
-        }
-        else if(moves.charAt(i)== 'R'){
-          x--;
-        }
-      }
+
         return x == 0 && y == 0;
     }
 }
