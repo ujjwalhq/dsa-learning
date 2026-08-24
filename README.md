@@ -33,6 +33,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0657-robot-return-to-origin](https://github.com/ujjwalhq/dsa-learning/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/ujjwalhq/dsa-learning/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
+| [0796-rotate-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0796-rotate-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
@@ -164,4 +165,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
