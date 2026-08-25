@@ -65,6 +65,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0485-max-consecutive-ones](https://github.com/ujjwalhq/dsa-learning/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ujjwalhq/dsa-learning/tree/main/0724-find-pivot-index/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ujjwalhq/dsa-learning/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -152,6 +154,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -169,4 +172,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0796-rotate-string/) | Easy |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
 <!---LeetCode Topics End-->
