@@ -140,6 +140,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0189-rotate-array](https://github.com/ujjwalhq/dsa-learning/tree/main/0189-rotate-array/) | Medium |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/ujjwalhq/dsa-learning/tree/main/0412-fizz-buzz/) | Easy |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/ujjwalhq/dsa-learning/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 ## Bit Manipulation
