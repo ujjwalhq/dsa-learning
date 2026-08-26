@@ -147,6 +147,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/ujjwalhq/dsa-learning/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -169,6 +170,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
+| [0191-number-of-1-bits](https://github.com/ujjwalhq/dsa-learning/tree/main/0191-number-of-1-bits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
