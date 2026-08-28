@@ -94,6 +94,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwalhq/dsa-learning/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ujjwalhq/dsa-learning/tree/master/1672-richest-customer-wealth) |
+| [1720-decode-xored-array](https://github.com/ujjwalhq/dsa-learning/tree/main/1720-decode-xored-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/ujjwalhq/dsa-learning/tree/master/1732-find-the-highest-altitude) |
 | [1816-truncate-sentence](https://github.com/ujjwalhq/dsa-learning/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/ujjwalhq/dsa-learning/tree/master/1920-build-array-from-permutation) |
@@ -149,6 +150,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/ujjwalhq/dsa-learning/tree/main/0191-number-of-1-bits/) | Easy |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
+| [1720-decode-xored-array](https://github.com/ujjwalhq/dsa-learning/tree/main/1720-decode-xored-array/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
