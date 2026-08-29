@@ -47,6 +47,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0205-isomorphic-strings](https://github.com/ujjwalhq/dsa-learning/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ujjwalhq/dsa-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
@@ -61,6 +62,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/ujjwalhq/dsa-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/ujjwalhq/dsa-learning/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
@@ -75,6 +77,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0066-plus-one](https://github.com/ujjwalhq/dsa-learning/tree/main/0066-plus-one/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ujjwalhq/dsa-learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/ujjwalhq/dsa-learning/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/ujjwalhq/dsa-learning/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/ujjwalhq/dsa-learning/tree/master/0268-missing-number) |
@@ -117,6 +120,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
@@ -172,6 +176,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/ujjwalhq/dsa-learning/tree/main/0053-maximum-subarray/) | Medium |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/ujjwalhq/dsa-learning/tree/main/0191-number-of-1-bits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
@@ -181,4 +186,8 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
