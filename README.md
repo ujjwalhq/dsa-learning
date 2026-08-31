@@ -43,6 +43,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ujjwalhq/dsa-learning/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/ujjwalhq/dsa-learning/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ujjwalhq/dsa-learning/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 | [2942-find-words-containing-character](https://github.com/ujjwalhq/dsa-learning/tree/main/2942-find-words-containing-character/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -59,6 +60,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ujjwalhq/dsa-learning/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ujjwalhq/dsa-learning/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
+| [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ujjwalhq/dsa-learning/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
