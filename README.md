@@ -34,6 +34,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0709-to-lower-case](https://github.com/ujjwalhq/dsa-learning/tree/main/0709-to-lower-case/) | Easy |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [0796-rotate-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0796-rotate-string/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/ujjwalhq/dsa-learning/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
@@ -56,6 +57,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/ujjwalhq/dsa-learning/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
@@ -86,6 +88,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0283-move-zeroes](https://github.com/ujjwalhq/dsa-learning/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ujjwalhq/dsa-learning/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/ujjwalhq/dsa-learning/tree/main/0724-find-pivot-index/) | Easy |
+| [0804-unique-morse-code-words](https://github.com/ujjwalhq/dsa-learning/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/ujjwalhq/dsa-learning/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ujjwalhq/dsa-learning/tree/main/1051-height-checker/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ujjwalhq/dsa-learning/tree/master/1295-find-numbers-with-even-number-of-digits) |
