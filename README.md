@@ -36,6 +36,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0796-rotate-string](https://github.com/ujjwalhq/dsa-learning/tree/main/0796-rotate-string/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ujjwalhq/dsa-learning/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ujjwalhq/dsa-learning/tree/master/1108-defanging-an-ip-address) |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwalhq/dsa-learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1528-shuffle-string](https://github.com/ujjwalhq/dsa-learning/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/ujjwalhq/dsa-learning/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -58,6 +59,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/ujjwalhq/dsa-learning/tree/main/0771-jewels-and-stones/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/ujjwalhq/dsa-learning/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwalhq/dsa-learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ujjwalhq/dsa-learning/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1436-destination-city](https://github.com/ujjwalhq/dsa-learning/tree/main/1436-destination-city/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
@@ -128,6 +130,7 @@ This repository contains my Java solutions to LeetCode problems, organized by to
 | [0169-majority-element](https://github.com/ujjwalhq/dsa-learning/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/ujjwalhq/dsa-learning/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/ujjwalhq/dsa-learning/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/ujjwalhq/dsa-learning/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/ujjwalhq/dsa-learning/tree/master/1512-number-of-good-pairs) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/ujjwalhq/dsa-learning/tree/main/2283-check-if-number-has-equal-digit-count-and-digit-value/) | Easy |
 ## Queue
